@@ -1,4 +1,4 @@
 Learn Git 
 Use GitHub
 Manage versions
-Be good at it
+This line was added by mistake 
