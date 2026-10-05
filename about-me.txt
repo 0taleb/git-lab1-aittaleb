@@ -1,0 +1,4 @@
+Name: Ait Taleb
+Program: Information Technology: Software Development
+Favorite Technology: Flipper zero
+Favorite Food: Poutine
